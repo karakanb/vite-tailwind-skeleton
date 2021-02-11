@@ -6,7 +6,7 @@
     "build": "vite build"
   },
   "dependencies": {
-    "apexcharts": "^3.19.2",
+    "apexcharts": "^3.24.0",
     "tailwindcss": "^1.4.6",
     "vue": "^3.0.0-beta.14",
     "vue-apexcharts": "^1.5.3"
